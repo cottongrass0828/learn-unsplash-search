@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/learn-unsplash-search/static/js/main.1f1e81ef.js",
+    "static/js/787.a99ae7ed.chunk.js": "/learn-unsplash-search/static/js/787.a99ae7ed.chunk.js",
+    "index.html": "/learn-unsplash-search/index.html",
+    "main.1f1e81ef.js.map": "/learn-unsplash-search/static/js/main.1f1e81ef.js.map",
+    "787.a99ae7ed.chunk.js.map": "/learn-unsplash-search/static/js/787.a99ae7ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1f1e81ef.js"
+  ]
+}
